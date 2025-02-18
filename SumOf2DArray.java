@@ -1,3 +1,10 @@
+/*
+APPIAH GIDEON
+01210830B
+JAVA ASSIGNMENT
+*/
+
+
 public class SumOf2DArray {
     public static void main(String[] args) {
         // Example 2D array

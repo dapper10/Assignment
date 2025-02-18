@@ -1,3 +1,9 @@
+/*APPIAH GIDEON
+01210830B
+JAVA ASSIGNMENT
+*/
+
+
 public class LargestElement {
     public static void main(String[] args) {
         // Example array

@@ -1,3 +1,11 @@
+/*APPIAH GIDEON
+01210830B
+JAVA ASSIGNMENT
+*/
+
+
+
+
 import java.util.Scanner;
 
 public class OhmsLawCalculator {
